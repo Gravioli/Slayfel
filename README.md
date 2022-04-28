@@ -1,2 +1,2 @@
-# slayfel
+# Slayfel
 Information for OSRS account Slayfel
